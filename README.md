@@ -1,6 +1,8 @@
-# Instagram Impersonation OSINT Case Study
+# Digital Impersonation OSINT Investigation
 
-This repository documents an OSINT case study based on a real investigation I worked through involving a suspected Instagram impersonation of a small business account. The case has been fully anonymized: names, usernames, visual identifiers, URLs, locations, and any other identifiable details have been removed or generalized.
+This repository documents an OSINT investigation based on a real case I worked through involving suspected digital impersonation on social media. The original case involved an Instagram business account clone, but the focus here is broader: identity consistency, impersonation indicators, and practical OSINT validation.
+
+The case has been fully anonymized. Names, usernames, visual identifiers, URLs, locations, and any other identifiable details have been removed or generalized.
 
 The goal here is to show the workflow and reasoning, not to expose a specific organization or person. I treated the original material as private case notes and rebuilt it into a clean portfolio version.
 
