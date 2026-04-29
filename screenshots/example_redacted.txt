@@ -1,0 +1,28 @@
+Redacted screenshot evidence description
+
+The original screenshots are not included in this repository because they contained identifiable brand information. A redacted evidence set would show the following:
+
+1. Profile header comparison
+   - legitimate_account and suspected_account displayed similar business branding.
+   - The suspected profile used a logo or profile image that closely resembled the legitimate one.
+   - The visible account name and category were aligned with the same business type.
+
+2. Username comparison
+   - The suspected username contained a minor typo or spelling variation.
+   - The difference was small enough that a user could miss it during a quick search.
+   - The variation appeared deliberate rather than a completely separate naming choice.
+
+3. Bio comparison
+   - The suspected account used a similar bio structure.
+   - Service categories and wording were closely matched.
+   - The profile did not provide enough independent context to distinguish itself clearly.
+
+4. Media comparison
+   - Several visible posts used the same or very similar brand assets.
+   - The suspected account appeared to replicate public-facing content rather than build an original profile.
+   - Visual style, logo placement, and topic selection were consistent with cloning behavior.
+
+5. Username intelligence screenshot
+   - The Maigret output showed many possible platform hits.
+   - The results required manual review because many were likely false positives or generated profile pages.
+   - The cleaned conclusion was that no reliable external footprint was found.
