@@ -1,6 +1,6 @@
 Redacted screenshot evidence description
 
-The original screenshots are not included in this repository because they contained identifiable brand information. A redacted evidence set would show the following:
+The original screenshots are not included in this repository because they contained identifiable brand information. In a redacted evidence set, the screenshots would show the following:
 
 1. Profile header comparison
    - legitimate_account and suspected_account displayed similar business branding.
@@ -8,9 +8,9 @@ The original screenshots are not included in this repository because they contai
    - The visible account name and category were aligned with the same business type.
 
 2. Username comparison
-   - The suspected username contained a minor typo or spelling variation.
+   - The suspected username contained a small typo or spelling variation.
    - The difference was small enough that a user could miss it during a quick search.
-   - The variation appeared deliberate rather than a completely separate naming choice.
+   - The variation looked deliberate rather than like a completely separate naming choice.
 
 3. Bio comparison
    - The suspected account used a similar bio structure.
