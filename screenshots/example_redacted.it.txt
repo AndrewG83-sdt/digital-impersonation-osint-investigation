@@ -1,0 +1,28 @@
+Descrizione delle evidenze screenshot redatte
+
+Gli screenshot originali non sono inclusi in questa repository perche' contenevano informazioni identificative del brand. In un set di evidenze redatto, gli screenshot mostrerebbero quanto segue:
+
+1. Confronto header profilo
+   - legitimate_account e suspected_account mostravano un branding business simile.
+   - Il profilo sospetto usava un logo o un'immagine profilo molto simile a quella legittima.
+   - Nome visibile e categoria dell'account erano allineati allo stesso tipo di attivita'.
+
+2. Confronto username
+   - Lo username sospetto conteneva un piccolo errore o una variazione ortografica.
+   - La differenza era abbastanza minima da poter sfuggire durante una ricerca veloce.
+   - La variazione sembrava intenzionale piu' che una scelta di nome completamente separata.
+
+3. Confronto bio
+   - L'account sospetto usava una struttura bio simile.
+   - Categorie di servizio e formulazione erano molto vicine.
+   - Il profilo non forniva abbastanza contesto indipendente per distinguersi chiaramente.
+
+4. Confronto media
+   - Diversi post visibili usavano asset uguali o molto simili a quelli del brand.
+   - L'account sospetto sembrava replicare contenuti pubblici invece di costruire un profilo originale.
+   - Stile visivo, posizionamento del logo e scelta degli argomenti erano coerenti con un comportamento di clonazione.
+
+5. Screenshot username intelligence
+   - L'output Maigret mostrava molti possibili hit su piattaforme diverse.
+   - I risultati richiedevano revisione manuale perche' molti erano probabilmente falsi positivi o pagine profilo generate.
+   - La conclusione pulita era che non emergeva un footprint esterno affidabile.
