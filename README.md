@@ -6,6 +6,8 @@ The case has been fully anonymized. Names, usernames, visual identifiers, URLs, 
 
 The goal here is to show the workflow and reasoning, not to expose a specific organization or person. I treated the original material as private case notes and rebuilt it into a clean portfolio version.
 
+Italian version available here: [README.it.md](README.it.md)
+
 ## Objectives
 
 - Detect a suspected impersonation account.
@@ -48,12 +50,18 @@ For threat intelligence work, this kind of case is useful because the conclusion
 ```text
 .
 |-- README.md
+|-- README.it.md
 |-- methodology.md
+|-- methodology.it.md
 |-- report/
-|   `-- report_redacted.md
+|   |-- report_redacted.md
+|   `-- report_redacted.it.md
 |-- indicators/
-|   `-- username_analysis.txt
+|   |-- username_analysis.txt
+|   `-- username_analysis.it.txt
 |-- screenshots/
-|   `-- example_redacted.txt
-`-- disclaimer.md
+|   |-- example_redacted.txt
+|   `-- example_redacted.it.txt
+|-- disclaimer.md
+`-- disclaimer.it.md
 ```
