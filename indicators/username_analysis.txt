@@ -1,0 +1,28 @@
+Cleaned username intelligence summary
+Target label: suspected_account
+Username pattern: near-match variation of legitimate_account
+
+Archive-style profile index: [likely false positive]
+Community wiki profile: [auto-generated profile]
+Developer forum profile: [likely false positive]
+Gaming statistics search: [likely false positive]
+Music platform user page: [no activity]
+Video platform handle check: [no activity]
+Book community profile: [auto-generated profile]
+Design marketplace profile: [likely false positive]
+Education platform profile: [no activity]
+Code learning site profile: [no activity]
+Social bookmarking page: [auto-generated profile]
+Travel or food review profile: [likely false positive]
+Sports statistics search page: [likely false positive]
+Image sharing profile: [no activity]
+Forum member lookup page: [auto-generated profile]
+
+Notes:
+- Several platforms returned URLs because they accept any username query or generate placeholder profile paths.
+- No meaningful profile metadata was observed in the reviewed results.
+- No posts, biography consistency, contact details, or activity history were identified across relevant platforms.
+- Some returned pages were unrelated to the business category and were not treated as identity evidence.
+
+Final interpretation:
+No consistent or active digital identity was identified across relevant platforms. The username appears recently created and purpose-specific.
